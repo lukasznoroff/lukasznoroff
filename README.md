@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, my name is Lukasz
+#### Front-End Developer
 
-<!--
-**lukasznoroff/lukasznoroff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am a motivated frontend developer seeking a full-time position in the field of coding where I can apply my knowledge and skills for continuous improvement. As a future web developer I like to create projects from scratch but also improve existing ones. For the last two years I have built several commercial projects. Current projects I build used HTML, SASS, JAVASCRIPT. I'm still learning and I'm hungry for knowledge so I started a year-long course in which I learn REACT JS, NODE JS, EXPRESS JS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: REACT / WORDPRESS / JS / HTML / CSS
+
+- 🔭 I’m currently working on https://miosen.lukaswebdeveloper.com/ 
+
+
+
+
