@@ -35,6 +35,15 @@ Skills: REACT / WORDPRESS / JS / HTML / CSS -->
 
 
 &nbsp;
+## Work
+
+[bicibygg](https://bicibygg.no/)
+
+[tinyhus](https://www.tinyhus.no/)
+
+
+&nbsp;
+
 
 - 🔭 I’m currently working on https://miosen.lukaswebdeveloper.com/ 
 
