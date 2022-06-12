@@ -53,6 +53,8 @@ Skills: REACT / WORDPRESS / JS / HTML / CSS -->
 
 [My website](https://lukaswebdeveloper.netlify.app/)
 
+[My LinkedIn page](https://www.linkedin.com/feed/)
+
 
 
 
